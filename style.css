@@ -37,7 +37,7 @@ h2{
     height: 0;
   }
   .switch::before{
-    content: "Anually";
+    content: "Monthly";
     position: absolute;
     right:4rem;
     font-size:1.4rem;
@@ -47,7 +47,7 @@ h2{
 
 }
 .switch::after{
-    content: "Monthly";
+    content: "Anually";
     position: absolute;
     left:4rem;
     font-size:1.4rem;
